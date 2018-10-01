@@ -7,9 +7,11 @@ This repository contains an example Java project. Your task is to use git tools 
 You will need to do this for every computer you wish to use on this module
 
 1. Make sure that the **git** command and its friends are in your command path. The easiest way to do this is to use **Git Bash**: select your Eclipse workspace in the file browser, then right click and select "Git Bash Here". When the Git Bash command window appears, type ``git --help`` and you should see a page or two of "help".
-2. Tell git who you are: ```
+2. Tell git who you are:
+```
 	git config --global user.name "Your Name"
-	git config --global user.email "yourid@uos.ac.uk" ```
+	git config --global user.email "yourid@uos.ac.uk"
+```
 2. Create an ssh key pair and share the public key with GitHub. In the Git Bash window, type ``ssh-keygen`` and follow the instructions. If you wish to be extra secure you can enter a passphrase when prompted, but bear in mind that you will need to enter this every time you transfer anything to or from GitHub. I usually leave this empty.
 3. Display your public key using ``cat ~/.ssh/id_rsa.pub`` and copy the text to your clipboard
 4. Click on your profile icon on the top-right of this GitHub page to show a drop-down list. right-click on **Settings** and open in a new browser tab so you can still read these instructions.
