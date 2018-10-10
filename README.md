@@ -38,6 +38,6 @@ The repository contains the Eclipse metadata, so all you need to do is open it i
 
 ## Part 4: Working with this project 
 
-This repository has been set up with the correct folder structure for a Java project, and can be used as a starting point for classroom exercises, homework, assignments and even your own Java projects. To start a new project based on this template, go to your GitHub account and "Fork" the repository to a new name, the continue from step 2 above with the new repository.
+This repository has been set up with the correct folder structure for a Java project, and can be used as a starting point for classroom exercises, homework, assignments and even your own Java projects. To start a new project based on this template, go to your GitHub account and "Fork" the repository to a new name, the continue from step 2 above with the new repository. Replace this README with your own documentation.
 
 Have Fun!
