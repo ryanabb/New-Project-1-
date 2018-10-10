@@ -25,3 +25,19 @@ If you did all that correctly, you have now set up this computer to use git, and
 1. Near the top of the page you are reading is a green **Clone or download** button. Click it and copy the ssh URL (begins *git@github.com:*...)
 2. In your Git Bash window, type ``git clone `` and paste in the copied URL, all on one line, then press enter. This will get a duplicate (clone) of the remote repository on your development machine.
 3. Type ``ls`` to see the new folder
+
+## Part 3: Open the repository in Eclipse
+
+The repository contains the Eclipse metadata, so all you need to do is open it in Eclipse.
+
+1. Click File:Import to show the import dialog.
+2. Unfold the "General" section and double-click "Existing projects into workspace".
+3. Click the "Browse" button at the top right, navigate to the repository folder you have just created and select it.
+4. Click "OK" and the new repository folder will appear in the centre of the "Import" dialog.
+5. Click "Finish" and the the new project should appear in the Package Explorer.
+
+## Part 4: Working with this project 
+
+This repository has been set up with the correct folder structure for a Java project, and can be used as a starting point for classroom exercises, homework, assignments and even your own Java projects. To start a new project based on this template, go to your GitHub account and "Fork" the repository to a new name, the continue from step 2 above with the new repository.
+
+Have Fun!
