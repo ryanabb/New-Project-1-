@@ -20,7 +20,7 @@ You will need to do this for every computer you wish to use on this module
 
 If you did all that correctly, you have now set up this computer to use git, and authorised it to access your GitHub account
 
-## Part 2: get a copy of this "repository" so you can make changes
+## Part 2: Get a copy of this "repository" so you can make changes
 
 1. Near the top of the page you are reading is a green **Clone or download** button. Click it and copy the ssh URL (begins *git@github.com:*...)
 2. In your Git Bash window, type ``git clone `` and paste in the copied URL, all on one line, then press enter. This will get a duplicate (clone) of the remote repository on your development machine.
